@@ -25,7 +25,15 @@ Product.init(
     },
     category_id: {
       type: DataTypes.INTEGER
-    }
+    },
+  // Store a reference of the 'id' of the Category that this Product belongs to.
+    category_id: {
+      type: DataTypes.INTEGER,
+      references: {
+        model: 'category',
+        key: 'category_id',
+      },
+    },
   },
   {
     sequelize,
