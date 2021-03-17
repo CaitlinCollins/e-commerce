@@ -23,9 +23,8 @@ Product.init(
       type: DataTypes.DECIMAL(10,2),
       allowNull: false,
       validate: {
-        isDecimal: true,
-        message: "Please enter a valid price including dollars and cents."
-      }
+        isDecimal: true
+      },
     },
     stock: {
       type: DataTypes.INTEGER,
@@ -33,7 +32,6 @@ Product.init(
       defaultValue: 10,
       validate: {
         isNumeric: true,
-        message: "Please enter a valid number."
       }
     },
   // Store a reference of the 'id' of the Category that this Product belongs to.
