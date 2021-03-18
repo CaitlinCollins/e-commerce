@@ -3,6 +3,7 @@
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Video Link of Application
+  https://drive.google.com/file/d/15wjLOQJ6NkdnRuQm0kMoRcAexLk_TbtG/view?usp=sharing
   
   
   ## Table of Contents
@@ -15,8 +16,6 @@
   [Contribution](https://github.com/CaitlinCollins/e-commerce/blob/main/README.md#contribution)
   
   [Tests](https://github.com/CaitlinCollins/e-commerce/blob/main/README.md#tests)
-  
-  [Screenshots](https://github.com/CaitlinCollins/e-commerce/blob/main/README.md#screenshots)
   
   [License](https://github.com/CaitlinCollins/e-commerce/blob/main/README.md#license)
   
@@ -36,8 +35,6 @@
 
   ## Tests
   No specified testing information. 
-  
-  ## Screenshots
   
   ## License
   This project is protected under the MIT license.
